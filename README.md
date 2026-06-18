@@ -31,3 +31,8 @@ solutions/
 
 results/
   summary.csv
+
+## How To Run
+
+```bash
+python src/main.py data/instances/i01.json solutions/i01_solution.json
